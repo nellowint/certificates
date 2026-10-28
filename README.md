@@ -8,6 +8,7 @@ Repositório pessoal com meus certificados de cursos, qualificações profission
 .
 ├── artificial-intelligence/    # Certificados de inteligência artificial
 ├── development/                # Certificados de desenvolvimento
+│   ├── django/
 │   ├── kotlin/
 │   ├── mobile/
 │   └── python/
@@ -26,6 +27,9 @@ Novos certificados seguem o padrão `<categoria>/<área>/<nome-descritivo>.pdf`.
 
 ### Desenvolvimento
 
+- **Django**
+  - [Django Master — Aplicações Web com Python e Django](./development/django/django-master-01.pdf) — 45 horas
+  - [Django Master — APIs Modernas com Python e Django](./development/django/django-master-02.pdf) — 18 horas
 - **Kotlin**
   - [Kotlin Experience](./development/kotlin/kotlin-experience.pdf)
 - **Mobile**
